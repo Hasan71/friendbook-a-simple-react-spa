@@ -1,0 +1,28 @@
+.friend-container{
+    background-color: white;
+    margin: 20px 15px 0px 50px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px  #3E5C9A;
+    
+}
+
+.friend-container h3{
+    padding: 10px;
+    color: #3E5C9A;
+    border: 1px solid #3E5C9A;
+    border-radius: 5px;
+}
+
+
+table img{
+    width: 45px;
+    height: 45px;
+}
+
+table { 
+    border-collapse: collapse;
+    margin-top: 30px;
+    color: #3E5C9A;
+}
+
